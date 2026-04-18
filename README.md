@@ -87,7 +87,7 @@ Contributions are welcome!
 
 ## 👤 Author
 **Name:** Mohammad Qazim
-- 🌐 GitHub: [your‑github‑profile]  
-- 💼 LinkedIn: [your‑linkedin‑profile]  
+- 🌐 GitHub: https://github.com/Qazim-07 
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammad-qazim-0146482b5/ 
 
 ---
