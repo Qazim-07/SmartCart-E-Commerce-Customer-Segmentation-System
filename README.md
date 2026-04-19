@@ -49,7 +49,7 @@ jupyter notebook smartcart.ipynb
 
 ---
 
-## 📊 Dataset Documentation : (DATA_DICTIONARY.md)
+📊 Dataset Documentation : (DATA_DICTIONARY.md)
 
 
 ## 📂 Folder Structure
