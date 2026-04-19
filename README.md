@@ -49,7 +49,6 @@ jupyter notebook smartcart.ipynb
 
 ---
 
-📊 Dataset Documentation : (DATA_DICTIONARY.md)
 
 
 ## 📂 Folder Structure
@@ -60,6 +59,9 @@ SmartCart-E-Commerce-Customer-Segmentation-System/
 │── requirements.txt        # Dependencies
 │── README.md               # Documentation
 ```
+
+📊 Dataset Documentation : (DATA_DICTIONARY.md)
+
 
 ---
 
